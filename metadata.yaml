@@ -1,0 +1,41 @@
+_repo: La-belle-que-voila_73653
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hémon, Louis
+    alias: Hemon, Louis
+    birthdate: 1880
+    deathdate: 1913
+    gutenberg_agent_id: '5112'
+    url: http://www.gutenberg.org/2009/agents/5112
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Louis_H%C3%A9mon
+    - https://en.wikipedia.org/wiki/Louis_H%C3%A9mon
+description: ''
+gutenberg_issued: '2024-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73653'
+  lccn: '23010121'
+language: fr
+pgterms:marc904: https://polona.pl/preview/b6acf676-b237-4f08-b6e3-62ce61140d4e
+pgterms:marc905: 20231202034947hmon
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bBernard Grasset, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: La belle que voilà -- "Celui qui voit les dieux" -- Le dernier soir
+  -- La vieille -- La destinée de Miss Winthrop-Smith -- La foire aux vérités -- La
+  peur -- Lizzie Blakeston.
+title: La belle que voilà...
+url: http://www.gutenberg.org/ebooks/73653
