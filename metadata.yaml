@@ -1,5 +1,8 @@
 _repo: La-belle-que-voila_73653
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73653-h/images/cover.jpg
 creator:
   author:
     agent_name: Hémon, Louis
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Louis_H%C3%A9mon
     - https://en.wikipedia.org/wiki/Louis_H%C3%A9mon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73653#La-belle-que-voila
 gutenberg_issued: '2024-05-20'
 gutenberg_type: Text
 identifiers:
